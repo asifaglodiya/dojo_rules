@@ -7,3 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * Added new line by AA
+* Added fixes line
